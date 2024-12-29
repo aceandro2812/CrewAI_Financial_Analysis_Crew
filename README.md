@@ -46,7 +46,7 @@ This project leverages the power of CrewAI, an advanced agent-based orchestratio
 -   CrewAI library
 -   Langchain community tools
 -   Pydantic
--   Gemini API Key (Make sure to set up your API Key correctly, replace `AIzaSyA6Gd_kJL0g8XCMZXJ-uJwbTDYcac1zqGk` with your actual API key)
+-   Gemini API Key (Make sure to set up your API Key correctly, replace `AGk` with your actual API key)
 
 
 ### Installation
