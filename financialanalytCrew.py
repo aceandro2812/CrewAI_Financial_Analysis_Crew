@@ -14,14 +14,14 @@ gemini_llm  = LLM(
     model="openai/gemini-2.0-flash-exp",
     temperature=0.7,
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
-    api_key="AIzaSyA6Gd_kJL0g8XCMZXJ-uJwbTDYcac1zqGk"
+    api_key=""
 )
 # reasoning LLm for manager
 gemini_thinking_llm  = LLM(
     model="openai/gemini-2.0-flash-thinking-exp",
     temperature=0.7,
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
-    api_key="AIzaSyA6Gd_kJL0g8XCMZXJ-uJwbTDYcac1zqGk"
+    api_key=""
 )
 
 # Search tool init
